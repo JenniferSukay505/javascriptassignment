@@ -1,0 +1,51 @@
+body {
+	background-color:black;
+}
+p {
+	color:white;
+	font-size: 1.25em;
+}
+
+.color {
+	border: 5px solid pink;
+}
+
+.container {
+	color:white;
+}
+
+.drag {
+	color:white;
+	font-size:1.25em;
+	border:5px solid pink;
+
+}
+#dragtarget {
+	color:white;
+}
+
+span.highlight {
+	color:white;
+}
+
+.dragtarget {
+	color: deeppink
+}
+
+.droptarget {
+	float: left;
+	border: 5px white;
+}
+
+.droptarget {
+	border:5px dashed orange;
+}
+.header {
+	color:white;
+}
+.ondrag {
+	color:hotpink;
+}
+p.dreopme {
+	color:white;
+}
